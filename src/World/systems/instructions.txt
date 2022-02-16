@@ -1,0 +1,3 @@
+https://discoverthreejs.com/book/first-steps/world-app/
+src has js files that were writen by me
+systems are things that operate on components or other systems
